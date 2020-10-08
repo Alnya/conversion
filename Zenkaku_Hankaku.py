@@ -2,6 +2,9 @@ import time
 
 
 def full_half(x):
+    # ターミナルから入力した文字列のうち、
+    # 全角のハイフンと全角のシングルクォーテーションを
+    # それぞれ半角に直して出力
     n = list(input())
     if x == 0:
         print()
