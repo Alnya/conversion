@@ -11,7 +11,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="714954f6-0c1f-4f02-8c98-05c860908092" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/conversion.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Practice_02/Main.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Practice_02/README.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Practice_02/open_instagram.py" afterDir="false" />
@@ -20,6 +19,7 @@
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conversion.py" beforeDir="false" afterPath="$PROJECT_DIR$/conversion.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Zenkaku_Hankaku.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../psql_on.py" beforeDir="false" />
@@ -230,7 +230,10 @@
       <workItem from="1601961548202" duration="1798000" />
       <workItem from="1602134357450" duration="581000" />
       <workItem from="1602135223296" duration="10000" />
-      <workItem from="1602137685536" duration="3106000" />
+      <workItem from="1602137685536" duration="4416000" />
+      <workItem from="1602202785858" duration="15000" />
+      <workItem from="1602589330113" duration="30000" />
+      <workItem from="1602746875388" duration="34000" />
     </task>
     <servers />
   </component>
@@ -253,26 +256,26 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="933" y="218" key="FileChooserDialogImpl" timestamp="1602139749923">
+    <state x="933" y="218" key="FileChooserDialogImpl" timestamp="1602202797949">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
-    <state x="933" y="218" key="FileChooserDialogImpl/0.0.1536.920@0.0.1536.920" timestamp="1602139749923" />
-    <state width="723" height="240" key="GridCell.Tab.0.bottom" timestamp="1602141223466">
+    <state x="933" y="218" key="FileChooserDialogImpl/0.0.1536.920@0.0.1536.920" timestamp="1602202797949" />
+    <state width="723" height="240" key="GridCell.Tab.0.bottom" timestamp="1602146687490">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
-    <state width="723" height="240" key="GridCell.Tab.0.bottom/0.0.1536.920@0.0.1536.920" timestamp="1602141223466" />
-    <state width="723" height="240" key="GridCell.Tab.0.center" timestamp="1602141223465">
+    <state width="723" height="240" key="GridCell.Tab.0.bottom/0.0.1536.920@0.0.1536.920" timestamp="1602146687490" />
+    <state width="723" height="240" key="GridCell.Tab.0.center" timestamp="1602146687490">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
-    <state width="723" height="240" key="GridCell.Tab.0.center/0.0.1536.920@0.0.1536.920" timestamp="1602141223465" />
-    <state width="723" height="240" key="GridCell.Tab.0.left" timestamp="1602141223465">
+    <state width="723" height="240" key="GridCell.Tab.0.center/0.0.1536.920@0.0.1536.920" timestamp="1602146687490" />
+    <state width="723" height="240" key="GridCell.Tab.0.left" timestamp="1602146687489">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
-    <state width="723" height="240" key="GridCell.Tab.0.left/0.0.1536.920@0.0.1536.920" timestamp="1602141223465" />
-    <state width="723" height="240" key="GridCell.Tab.0.right" timestamp="1602141223465">
+    <state width="723" height="240" key="GridCell.Tab.0.left/0.0.1536.920@0.0.1536.920" timestamp="1602146687489" />
+    <state width="723" height="240" key="GridCell.Tab.0.right" timestamp="1602146687490">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
-    <state width="723" height="240" key="GridCell.Tab.0.right/0.0.1536.920@0.0.1536.920" timestamp="1602141223465" />
+    <state width="723" height="240" key="GridCell.Tab.0.right/0.0.1536.920@0.0.1536.920" timestamp="1602146687490" />
     <state x="277" y="105" key="SettingsEditor" timestamp="1601948804315">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
@@ -287,7 +290,7 @@
     <SUITE FILE_PATH="coverage/Practice_01$psql_on.coverage" NAME="psql_on Coverage Results" MODIFIED="1601961228052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/GitHub$Zenkaku_Hankaku.coverage" NAME="Zenkaku_Hankaku Coverage Results" MODIFIED="1601569788948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Practice_01$Main.coverage" NAME="Main Coverage Results" MODIFIED="1601961564954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Practice_01$conversion.coverage" NAME="conversion Coverage Results" MODIFIED="1602141223448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Practice_01$conversion.coverage" NAME="conversion Coverage Results" MODIFIED="1602141323354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Practice_01$test.coverage" NAME="test Coverage Results" MODIFIED="1601961328720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

@@ -15,7 +15,7 @@ def conversion(path):
             if input_list[i] == "’" or input_list[i] == "‘":
                 input_list[i] = "'"
             write_string += input_list[i]
-        write_string += "\n\nconversion completed."
+        # write_string += "\n\nconversion completed."
     with open(path, mode="w") as file:
         file.write(write_string)
     subprocess.run(["start", "dir", "/w"], shell=True)
