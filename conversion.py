@@ -16,7 +16,7 @@ def conversion(path):
                 input_list[i] = "'"
             write_string += input_list[i]
         # write_string += "\n\nconversion completed."
-    with open(path, mode="w") as file:
+    with open(path, mode="w", encoding="UTF-8") as file:
         file.write(write_string)
     subprocess.run(["start", "dir", "/w"], shell=True)
     time.sleep(1)

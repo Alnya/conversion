@@ -233,7 +233,9 @@
       <workItem from="1602137685536" duration="4416000" />
       <workItem from="1602202785858" duration="15000" />
       <workItem from="1602589330113" duration="30000" />
-      <workItem from="1602746875388" duration="34000" />
+      <workItem from="1602746875388" duration="76000" />
+      <workItem from="1602747037524" duration="100000" />
+      <workItem from="1602766835106" duration="28000" />
     </task>
     <servers />
   </component>
@@ -260,22 +262,22 @@
       <screen x="0" y="0" width="1536" height="920" />
     </state>
     <state x="933" y="218" key="FileChooserDialogImpl/0.0.1536.920@0.0.1536.920" timestamp="1602202797949" />
-    <state width="723" height="240" key="GridCell.Tab.0.bottom" timestamp="1602146687490">
+    <state width="1493" height="240" key="GridCell.Tab.0.bottom" timestamp="1602747136502">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
-    <state width="723" height="240" key="GridCell.Tab.0.bottom/0.0.1536.920@0.0.1536.920" timestamp="1602146687490" />
-    <state width="723" height="240" key="GridCell.Tab.0.center" timestamp="1602146687490">
+    <state width="1493" height="240" key="GridCell.Tab.0.bottom/0.0.1536.920@0.0.1536.920" timestamp="1602747136502" />
+    <state width="1493" height="240" key="GridCell.Tab.0.center" timestamp="1602747136502">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
-    <state width="723" height="240" key="GridCell.Tab.0.center/0.0.1536.920@0.0.1536.920" timestamp="1602146687490" />
-    <state width="723" height="240" key="GridCell.Tab.0.left" timestamp="1602146687489">
+    <state width="1493" height="240" key="GridCell.Tab.0.center/0.0.1536.920@0.0.1536.920" timestamp="1602747136502" />
+    <state width="1493" height="240" key="GridCell.Tab.0.left" timestamp="1602747136502">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
-    <state width="723" height="240" key="GridCell.Tab.0.left/0.0.1536.920@0.0.1536.920" timestamp="1602146687489" />
-    <state width="723" height="240" key="GridCell.Tab.0.right" timestamp="1602146687490">
+    <state width="1493" height="240" key="GridCell.Tab.0.left/0.0.1536.920@0.0.1536.920" timestamp="1602747136502" />
+    <state width="1493" height="240" key="GridCell.Tab.0.right" timestamp="1602747136502">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
-    <state width="723" height="240" key="GridCell.Tab.0.right/0.0.1536.920@0.0.1536.920" timestamp="1602146687490" />
+    <state width="1493" height="240" key="GridCell.Tab.0.right/0.0.1536.920@0.0.1536.920" timestamp="1602747136502" />
     <state x="277" y="105" key="SettingsEditor" timestamp="1601948804315">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
@@ -292,5 +294,6 @@
     <SUITE FILE_PATH="coverage/Practice_01$Main.coverage" NAME="Main Coverage Results" MODIFIED="1601961564954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Practice_01$conversion.coverage" NAME="conversion Coverage Results" MODIFIED="1602141323354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Practice_01$test.coverage" NAME="test Coverage Results" MODIFIED="1601961328720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/psql_main_py$conversion.coverage" NAME="conversion Coverage Results" MODIFIED="1602747082384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
