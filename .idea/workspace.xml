@@ -19,7 +19,6 @@
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conversion.py" beforeDir="false" afterPath="$PROJECT_DIR$/conversion.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Zenkaku_Hankaku.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../psql_on.py" beforeDir="false" />
@@ -56,7 +55,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Practice_02" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/2年後期/Python千本ノック/project" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -235,7 +234,9 @@
       <workItem from="1602589330113" duration="30000" />
       <workItem from="1602746875388" duration="76000" />
       <workItem from="1602747037524" duration="100000" />
-      <workItem from="1602766835106" duration="28000" />
+      <workItem from="1602766835106" duration="121000" />
+      <workItem from="1602839365002" duration="80000" />
+      <workItem from="1605183629043" duration="34000" />
     </task>
     <servers />
   </component>
@@ -258,26 +259,26 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="933" y="218" key="FileChooserDialogImpl" timestamp="1602202797949">
+    <state x="199" y="239" key="FileChooserDialogImpl" timestamp="1605183660654">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
-    <state x="933" y="218" key="FileChooserDialogImpl/0.0.1536.920@0.0.1536.920" timestamp="1602202797949" />
-    <state width="1493" height="240" key="GridCell.Tab.0.bottom" timestamp="1602747136502">
+    <state x="199" y="239" key="FileChooserDialogImpl/0.0.1536.920@0.0.1536.920" timestamp="1605183660654" />
+    <state width="1493" height="240" key="GridCell.Tab.0.bottom" timestamp="1602766955759">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
-    <state width="1493" height="240" key="GridCell.Tab.0.bottom/0.0.1536.920@0.0.1536.920" timestamp="1602747136502" />
-    <state width="1493" height="240" key="GridCell.Tab.0.center" timestamp="1602747136502">
+    <state width="1493" height="240" key="GridCell.Tab.0.bottom/0.0.1536.920@0.0.1536.920" timestamp="1602766955759" />
+    <state width="1493" height="240" key="GridCell.Tab.0.center" timestamp="1602766955759">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
-    <state width="1493" height="240" key="GridCell.Tab.0.center/0.0.1536.920@0.0.1536.920" timestamp="1602747136502" />
-    <state width="1493" height="240" key="GridCell.Tab.0.left" timestamp="1602747136502">
+    <state width="1493" height="240" key="GridCell.Tab.0.center/0.0.1536.920@0.0.1536.920" timestamp="1602766955759" />
+    <state width="1493" height="240" key="GridCell.Tab.0.left" timestamp="1602766955758">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
-    <state width="1493" height="240" key="GridCell.Tab.0.left/0.0.1536.920@0.0.1536.920" timestamp="1602747136502" />
-    <state width="1493" height="240" key="GridCell.Tab.0.right" timestamp="1602747136502">
+    <state width="1493" height="240" key="GridCell.Tab.0.left/0.0.1536.920@0.0.1536.920" timestamp="1602766955758" />
+    <state width="1493" height="240" key="GridCell.Tab.0.right" timestamp="1602766955759">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
-    <state width="1493" height="240" key="GridCell.Tab.0.right/0.0.1536.920@0.0.1536.920" timestamp="1602747136502" />
+    <state width="1493" height="240" key="GridCell.Tab.0.right/0.0.1536.920@0.0.1536.920" timestamp="1602766955759" />
     <state x="277" y="105" key="SettingsEditor" timestamp="1601948804315">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
@@ -294,6 +295,6 @@
     <SUITE FILE_PATH="coverage/Practice_01$Main.coverage" NAME="Main Coverage Results" MODIFIED="1601961564954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Practice_01$conversion.coverage" NAME="conversion Coverage Results" MODIFIED="1602141323354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Practice_01$test.coverage" NAME="test Coverage Results" MODIFIED="1601961328720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/psql_main_py$conversion.coverage" NAME="conversion Coverage Results" MODIFIED="1602747082384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/psql_main_py$conversion.coverage" NAME="conversion Coverage Results" MODIFIED="1602766913682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
