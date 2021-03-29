@@ -1,9 +1,10 @@
 import subprocess
+from settings import get_psql_on_path
 
 
 def main():
     # psqlをターミナルで開く
-    subprocess.run("\"c:\\program files\\postgresql\\11\\bin\\psql.exe\" -U postgres -d rpg", shell=True)
+    subprocess.run(get_psql_on_path(), shell=True)
 
 
 if __name__ == "__main__":

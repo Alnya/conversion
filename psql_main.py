@@ -1,6 +1,7 @@
 import subprocess
 import pyautogui
 import time
+from settings import get_psql_main_password
 
 
 def main():
@@ -12,7 +13,7 @@ def main():
     pyautogui.typewrite("python psql_on.py")
     pyautogui.press("enter")
     time.sleep(0.5)
-    pyautogui.typewrite("postgres")
+    pyautogui.typewrite(get_psql_main_password())
     pyautogui.press("enter")
 
 

@@ -2,6 +2,7 @@ import subprocess
 import pyautogui
 import time
 import pyperclip
+from settings import get_data_algorithm_path
 
 
 def conversion(path):
@@ -25,4 +26,4 @@ def conversion(path):
 
 
 if __name__ == '__main__':
-    conversion(r"C:\Alnya\tmp\conversion.txt")
+    conversion(get_data_algorithm_path())
